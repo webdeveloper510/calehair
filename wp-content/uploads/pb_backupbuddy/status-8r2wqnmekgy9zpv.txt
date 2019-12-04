@@ -1,0 +1,4 @@
+1458883794|~|1.50|~|70.67|~|error|~|Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.
+1458883888|~|2.01|~|70.36|~|error|~|Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.
+1458883909|~|1.10|~|70.36|~|error|~|Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.
+1458884021|~|2.92|~|70.67|~|error|~|Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.

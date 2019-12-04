@@ -1,0 +1,5 @@
+11-25-2015 @ 11:11:02 - mollie_wc_gateway_ideal: Create payment for order 1035
+11-25-2015 @ 11:11:03 - mollie_wc_gateway_ideal: Payment tr_jC2fFPUUKn (live) created for order 1035
+11-25-2015 @ 11:12:20 - mollie_wc_gateway_ideal: Mollie payment tr_jC2fFPUUKn (live) webhook call for order 1035.
+11-25-2015 @ 11:12:20 - Mollie_WC_Gateway_Abstract::onWebhookPaid called.
+11-25-2015 @ 11:12:23 - Mollie_WC_Plugin::onMollieReturn: Redirect url on return order mollie_wc_gateway_ideal, order 1035: http://www.hairextensions-denhaag.nl/checkout/order-received/1035?key=wc_order_56559745b1c60&utm_nooverride=1

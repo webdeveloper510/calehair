@@ -1,0 +1,2034 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairdo Core Plugin v1.0\n"
+"POT-Creation-Date: 2015-07-31 15:46+0200\n"
+"PO-Revision-Date: 2015-07-31 15:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/blocks/block_carousel_input.php:62
+#: .././inc/blocks/block_content_input.php:46
+#: .././inc/blocks/block_content_sidebar_input.php:40
+#: .././inc/blocks/block_countdown_input.php:52
+#: .././inc/blocks/block_cta_input.php:43
+#: .././inc/blocks/block_divider_input.php:48
+#: .././inc/blocks/block_download_input.php:78
+#: .././inc/blocks/block_featured_icons_input.php:75
+#: .././inc/blocks/block_featured_img_input.php:34
+#: .././inc/blocks/block_featured_posts_input.php:59
+#: .././inc/blocks/block_featured_video_input.php:45
+#: .././inc/blocks/block_gallery_input.php:51
+#: .././inc/blocks/block_gallery_preview_input.php:50
+#: .././inc/blocks/block_html_input.php:45
+#: .././inc/blocks/block_img_input.php:34
+#: .././inc/blocks/block_listing_input.php:55
+#: .././inc/blocks/block_media_input.php:48
+#: .././inc/blocks/block_people_input.php:45
+#: .././inc/blocks/block_posts_graph_input.php:51
+#: .././inc/blocks/block_pricing_input.php:104
+#: .././inc/blocks/block_pricing_vertical_input.php:95
+#: .././inc/blocks/block_qa_input.php:44
+#: .././inc/blocks/block_revslider_input.php:45
+#: .././inc/blocks/block_sitemap_input.php:39
+#: .././inc/blocks/block_space_input.php:36
+#: .././inc/blocks/block_supporters_input.php:53
+#: .././inc/blocks/block_template_input.php:52
+#: .././inc/blocks/block_text_section_input.php:66
+#: .././inc/blocks/block_tribe_event_input.php:38
+#: .././inc/blocks/block_widgets_input.php:45
+#: .././inc/functions/functions_cmb_cpt_project.php:70
+#: .././inc/functions/functions_cmb_posts.php:86
+msgid "General"
+msgstr "Generelt"
+
+#: .././inc/blocks/block_carousel_input.php:63
+#: .././inc/blocks/block_content_input.php:47
+#: .././inc/blocks/block_countdown_input.php:53
+#: .././inc/blocks/block_divider_input.php:49
+#: .././inc/blocks/block_featured_icons_input.php:76
+#: .././inc/blocks/block_featured_posts_input.php:60
+#: .././inc/blocks/block_featured_video_input.php:46
+#: .././inc/blocks/block_gallery_input.php:52
+#: .././inc/blocks/block_gallery_preview_input.php:51
+#: .././inc/blocks/block_html_input.php:46
+#: .././inc/blocks/block_listing_input.php:56
+#: .././inc/blocks/block_posts_graph_input.php:52
+#: .././inc/blocks/block_supporters_input.php:54
+#: .././inc/blocks/block_template_input.php:53
+#: .././inc/blocks/block_text_section_input.php:67
+#: .././inc/blocks/block_widgets_input.php:46
+msgid "Appearance"
+msgstr "Udseende"
+
+#: .././inc/blocks/block_carousel_input.php:64
+#: .././inc/blocks/block_content_input.php:48
+#: .././inc/blocks/block_content_sidebar_input.php:41
+#: .././inc/blocks/block_countdown_input.php:54
+#: .././inc/blocks/block_cta_input.php:44
+#: .././inc/blocks/block_divider_input.php:50
+#: .././inc/blocks/block_download_input.php:79
+#: .././inc/blocks/block_featured_icons_input.php:77
+#: .././inc/blocks/block_featured_img_input.php:35
+#: .././inc/blocks/block_featured_posts_input.php:61
+#: .././inc/blocks/block_featured_video_input.php:47
+#: .././inc/blocks/block_gallery_input.php:53
+#: .././inc/blocks/block_gallery_preview_input.php:52
+#: .././inc/blocks/block_html_input.php:47
+#: .././inc/blocks/block_img_input.php:35
+#: .././inc/blocks/block_listing_input.php:57
+#: .././inc/blocks/block_media_input.php:49
+#: .././inc/blocks/block_people_input.php:46
+#: .././inc/blocks/block_posts_graph_input.php:53
+#: .././inc/blocks/block_pricing_input.php:105
+#: .././inc/blocks/block_pricing_vertical_input.php:96
+#: .././inc/blocks/block_qa_input.php:45
+#: .././inc/blocks/block_revslider_input.php:46
+#: .././inc/blocks/block_sitemap_input.php:40
+#: .././inc/blocks/block_supporters_input.php:55
+#: .././inc/blocks/block_template_input.php:54
+#: .././inc/blocks/block_text_section_input.php:68
+#: .././inc/blocks/block_tribe_event_input.php:39
+#: .././inc/blocks/block_widgets_input.php:47
+msgid "Advanced"
+msgstr "Avanceret"
+
+#: .././inc/blocks/block_carousel_input.php:76
+#: .././inc/blocks/block_countdown_input.php:65
+#: .././inc/blocks/block_download_input.php:91
+#: .././inc/blocks/block_download_input.php:168
+#: .././inc/blocks/block_featured_icons_input.php:89
+#: .././inc/blocks/block_featured_icons_input.php:131
+#: .././inc/blocks/block_gallery_input.php:66
+#: .././inc/blocks/block_gallery_preview_input.php:66
+#: .././inc/blocks/block_listing_input.php:71
+#: .././inc/blocks/block_listing_input.php:129
+#: .././inc/blocks/block_media_input.php:61
+#: .././inc/blocks/block_people_input.php:59
+#: .././inc/blocks/block_posts_graph_input.php:65
+#: .././inc/blocks/block_pricing_input.php:118
+#: .././inc/blocks/block_pricing_vertical_input.php:109
+#: .././inc/blocks/block_qa_input.php:58
+#: .././inc/blocks/block_sitemap_input.php:52
+#: .././inc/blocks/block_supporters_input.php:68
+#: .././inc/blocks/block_template_input.php:68
+#: .././inc/blocks/block_text_section_input.php:79
+msgid "Title"
+msgstr "Titel"
+
+#: .././inc/blocks/block_carousel_input.php:90
+#: .././inc/blocks/block_posts_graph_input.php:91
+msgid "Show"
+msgstr "Vis"
+
+#: .././inc/blocks/block_carousel_input.php:92
+#: .././inc/blocks/block_featured_posts_input.php:90
+#: .././inc/blocks/block_posts_graph_input.php:93
+msgid "Latest posts"
+msgstr "Seneste poster"
+
+#: .././inc/blocks/block_carousel_input.php:93
+#: .././inc/blocks/block_featured_posts_input.php:91
+#: .././inc/blocks/block_posts_graph_input.php:94
+msgid "Random posts"
+msgstr "Tilfældige poster"
+
+#: .././inc/blocks/block_carousel_input.php:96
+#: .././inc/blocks/block_featured_posts_input.php:94
+#: .././inc/blocks/block_posts_graph_input.php:97
+msgid "Popular posts by views"
+msgstr "Populære poster efter antal hits"
+
+#: .././inc/blocks/block_carousel_input.php:97
+#: .././inc/blocks/block_featured_posts_input.php:95
+#: .././inc/blocks/block_posts_graph_input.php:98
+msgid "Popular posts by comments"
+msgstr "Populære poster efter antal kommentarer"
+
+#: .././inc/blocks/block_carousel_input.php:112
+#: .././inc/blocks/block_img_input.php:54
+#: .././inc/blocks/block_listing_input.php:116
+#: .././inc/blocks/block_widgets_input.php:57
+#: .././inc/functions/functions_cmb_pages.php:550
+#: .././inc/options/options_pagebuilder.php:384
+msgid "Layout"
+msgstr "Layout"
+
+#: .././inc/blocks/block_carousel_input.php:114
+#: .././inc/blocks/block_html_input.php:70
+msgid "Boxed"
+msgstr "Boks"
+
+#: .././inc/blocks/block_carousel_input.php:115
+msgid "Full Width"
+msgstr "Full bredde"
+
+#: .././inc/blocks/block_carousel_input.php:121
+#: .././inc/blocks/block_featured_posts_input.php:203
+msgid "Featured images link to"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:123
+msgid "Posts"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:124
+msgid "Lightbox"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:132
+#: .././inc/blocks/block_featured_posts_input.php:162
+msgid "Show section header"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:139
+#: .././inc/blocks/block_featured_posts_input.php:169
+msgid "Show featured image"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:146
+#: .././inc/blocks/block_featured_posts_input.php:176
+msgid "Show publish date"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:153
+#: .././inc/blocks/block_featured_posts_input.php:183
+msgid "Show title"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:160
+#: .././inc/blocks/block_featured_posts_input.php:190
+msgid "Show excerpt"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:167
+#: .././inc/blocks/block_featured_posts_input.php:197
+msgid "Show more link"
+msgstr "Vis mere link"
+
+#: .././inc/blocks/block_carousel_input.php:182
+msgid "Number of items to display"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:197
+msgid "Number of items to load"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:211
+#: .././inc/blocks/block_featured_posts_input.php:154
+#: .././inc/functions/functions_cmb_pages.php:491
+msgid "Excerpt length"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:226
+msgid "Slide speed"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:226
+msgid "milliseconds"
+msgstr "millisekunder"
+
+#: .././inc/blocks/block_carousel_input.php:241
+msgid "Autoplay speed "
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:241
+msgid "milliseconds - 0 to turn autoplay off"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:248
+msgid "Stop on hover"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_input.php:255
+msgid "Pagination"
+msgstr ""
+
+#: .././inc/blocks/block_carousel_output.php:214
+#: .././inc/blocks/block_featured_posts_output.php:200
+#: .././inc/blocks/block_media_output.php:86
+msgid "more"
+msgstr "mere"
+
+#: .././inc/blocks/block_content_input.php:58
+#: .././inc/blocks/block_content_sidebar_input.php:51
+msgid ""
+"Displays the content of your page. Make sure the page using this pagebuilder "
+"template has content."
+msgstr ""
+
+#: .././inc/blocks/block_content_output.php:39
+#: .././inc/blocks/block_content_sidebar_output.php:41
+#: .././inc/blocks/block_template_output.php:41
+msgid "Pages:"
+msgstr ""
+
+#: .././inc/blocks/block_content_sidebar_input.php:56
+#: .././inc/functions/functions_cmb_pages.php:175
+#: .././inc/functions/functions_cmb_pages.php:638
+#: .././inc/functions/functions_cmb_posts.php:155
+msgid "Select sidebar"
+msgstr ""
+
+#: .././inc/blocks/block_content_sidebar_output.php:53
+msgid "No Widgets added."
+msgstr "Ingen Widgets."
+
+#: .././inc/blocks/block_content_sidebar_output.php:54
+#: .././inc/blocks/block_widgets_output.php:48
+msgid "Please login and add some widgets to this widget area."
+msgstr ""
+"Vær venlig at logge ind og tilføje nogle widgets til dette widget område."
+
+#: .././inc/blocks/block_countdown_input.php:67
+msgid "Optional"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:73
+msgid "Countdown to"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:75
+msgid ""
+"Must be in the format Month DD, YYYY HH:MM:SS e.g. December 31, 2023 23:59:59"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:80
+msgid "GMT offset"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:82
+msgid ""
+"GMT offset of your current timezone. You can search for your timezone <a "
+"href='http://www.worldtimezone.com/' target='_blank'>here</a>"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:87
+msgid "Output format"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:89
+msgid ""
+"'Y' for years, 'O' for months, 'W' for weeks, 'D' for days, 'H' for hours, "
+"'M' for minutes, 'S' for seconds. Use upper-case characters for required "
+"fields and lower-case characters for display only if non-zero."
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:95
+#: .././inc/blocks/block_download_input.php:175
+#: .././inc/blocks/block_posts_graph_input.php:72
+msgid "Description"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:101
+msgid "Optional. Enter text / HTML."
+msgstr ""
+
+#: .././inc/blocks/block_countdown_input.php:108
+msgid "Use compact format"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_output.php:35
+msgid "Years"
+msgstr "År"
+
+#: .././inc/blocks/block_countdown_output.php:36
+msgid "Months"
+msgstr "Måneder"
+
+#: .././inc/blocks/block_countdown_output.php:37
+msgid "Weeks"
+msgstr "Uger"
+
+#: .././inc/blocks/block_countdown_output.php:38
+msgid "Days"
+msgstr "Dage"
+
+#: .././inc/blocks/block_countdown_output.php:39
+msgid "Hours"
+msgstr "Timer"
+
+#: .././inc/blocks/block_countdown_output.php:40
+msgid "Minutes"
+msgstr "Minutter"
+
+#: .././inc/blocks/block_countdown_output.php:41
+msgid "Seconds"
+msgstr "Sekunder"
+
+#: .././inc/blocks/block_countdown_output.php:43
+msgid "Year"
+msgstr "År"
+
+#: .././inc/blocks/block_countdown_output.php:44
+msgid "Month"
+msgstr "Måned"
+
+#: .././inc/blocks/block_countdown_output.php:45
+msgid "Week"
+msgstr "Uge"
+
+#: .././inc/blocks/block_countdown_output.php:46
+msgid "Day"
+msgstr "Dag"
+
+#: .././inc/blocks/block_countdown_output.php:47
+msgid "Hour"
+msgstr "Time"
+
+#: .././inc/blocks/block_countdown_output.php:48
+msgid "Minute"
+msgstr "Minut"
+
+#: .././inc/blocks/block_countdown_output.php:49
+msgid "Second"
+msgstr "Sekund"
+
+#: .././inc/blocks/block_countdown_output.php:51
+msgid "Y"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_output.php:52
+msgid "M"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_output.php:53
+msgid "W"
+msgstr ""
+
+#: .././inc/blocks/block_countdown_output.php:54
+msgid "D"
+msgstr ""
+
+#: .././inc/blocks/block_cta_input.php:56
+#: .././inc/blocks/block_download_input.php:97
+#: .././inc/blocks/block_featured_icons_input.php:139
+#: .././inc/blocks/block_gallery_preview_input.php:80
+#: .././inc/blocks/block_listing_input.php:78
+#: .././inc/blocks/block_people_input.php:66
+#: .././inc/blocks/block_pricing_input.php:124
+#: .././inc/blocks/block_pricing_vertical_input.php:115
+#: .././inc/blocks/block_qa_input.php:65
+#: .././inc/blocks/block_template_input.php:75
+#: .././inc/blocks/block_template_input.php:88
+#: .././inc/blocks/block_template_input.php:105
+msgid "Text"
+msgstr ""
+
+#: .././inc/blocks/block_cta_input.php:62
+#: .././inc/blocks/block_gallery_preview_input.php:86
+msgid "Enter text / HTML"
+msgstr ""
+
+#: .././inc/blocks/block_cta_input.php:67
+#: .././inc/blocks/block_template_input.php:173
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:31
+msgid "Background Color"
+msgstr ""
+
+#: .././inc/blocks/block_cta_input.php:74
+msgid "Text Color"
+msgstr ""
+
+#: .././inc/blocks/block_cta_input.php:81
+msgid "Link Color"
+msgstr ""
+
+#: .././inc/blocks/block_cta_input.php:90
+msgid "Boxed background"
+msgstr ""
+
+#: .././inc/blocks/block_divider_input.php:62
+#: .././inc/blocks/block_qa_input.php:77
+msgid "Type"
+msgstr ""
+
+#: .././inc/blocks/block_divider_input.php:64
+msgid "Horizontal ruler"
+msgstr ""
+
+#: .././inc/blocks/block_divider_input.php:65
+msgid "Text bar"
+msgstr ""
+
+#: .././inc/blocks/block_divider_input.php:74
+msgid "Divider text"
+msgstr ""
+
+#: .././inc/blocks/block_divider_input.php:97
+#: .././inc/blocks/block_html_input.php:89
+msgid "Sticky"
+msgstr ""
+
+#: .././inc/blocks/block_divider_input.php:97
+#: .././inc/blocks/block_html_input.php:89
+msgid "should only be used on blocks with static heights"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:117
+msgid "Download Box"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:125
+msgid "Featured download"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:137
+#: .././inc/blocks/block_featured_icons_input.php:109
+msgid "Icon"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:158
+msgid "Or image"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:161
+#: .././inc/blocks/block_img_input.php:49
+#: .././inc/blocks/block_media_input.php:88
+#: .././inc/blocks/block_template_input.php:182
+msgid "Select image"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:186
+#: .././inc/blocks/block_featured_posts_input.php:213
+#: .././inc/blocks/block_gallery_preview_input.php:91
+#: .././inc/blocks/block_pricing_input.php:192
+#: .././inc/blocks/block_pricing_vertical_input.php:200
+msgid "Button text"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:194
+msgid "File URL"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:197
+msgid "Select file"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:203
+#: .././inc/blocks/block_featured_icons_input.php:151
+#: .././inc/blocks/block_pricing_input.php:206
+#: .././inc/blocks/block_pricing_vertical_input.php:214
+#: .././inc/blocks/block_qa_input.php:113
+msgid "delete"
+msgstr ""
+
+#: .././inc/blocks/block_download_input.php:217
+#: .././inc/blocks/block_pricing_input.php:220
+#: .././inc/blocks/block_pricing_vertical_input.php:228
+msgid "Add new pricing table"
+msgstr ""
+
+#: .././inc/blocks/block_featured_icons_input.php:165
+msgid "Add new column"
+msgstr ""
+
+#: .././inc/blocks/block_featured_icons_input.php:180
+msgid "Icon Color"
+msgstr ""
+
+#: .././inc/blocks/block_featured_icons_input.php:194
+msgid "Icon Size <i>(px)</i>"
+msgstr ""
+
+#: .././inc/blocks/block_featured_img_input.php:45
+msgid ""
+"Displays the featured image of your page. Make sure the page using this "
+"pagebuilder template has a featured image."
+msgstr ""
+
+#: .././inc/blocks/block_featured_posts_input.php:122
+#: .././inc/blocks/block_gallery_input.php:82
+#: .././inc/blocks/block_gallery_preview_input.php:114
+#: .././inc/blocks/block_people_input.php:102
+#: .././inc/functions/functions_cmb_pages.php:219
+#: .././inc/functions/functions_cmb_pages.php:287
+msgid "Number of columns"
+msgstr ""
+
+#: .././inc/blocks/block_featured_posts_input.php:139
+msgid "Number of posts to show"
+msgstr ""
+
+#: .././inc/blocks/block_featured_posts_input.php:219
+#: .././inc/blocks/block_pricing_input.php:199
+#: .././inc/blocks/block_pricing_vertical_input.php:207
+msgid "Button link"
+msgstr ""
+
+#: .././inc/blocks/block_featured_video_input.php:59
+msgid "Before video"
+msgstr ""
+
+#: .././inc/blocks/block_featured_video_input.php:69
+msgid "Embeddable media code"
+msgstr ""
+
+#: .././inc/blocks/block_featured_video_input.php:74
+msgid "After video"
+msgstr ""
+
+#: .././inc/blocks/block_featured_video_input.php:80
+msgid "Text / HTML"
+msgstr ""
+
+#: .././inc/blocks/block_gallery_input.php:90
+msgid "Hide filter menu"
+msgstr ""
+
+#: .././inc/blocks/block_gallery_input.php:100
+#: .././inc/blocks/block_gallery_input.php:128
+#: .././inc/blocks/block_gallery_preview_input.php:124
+#: .././inc/blocks/block_gallery_preview_input.php:151
+msgid "Images"
+msgstr ""
+
+#: .././inc/blocks/block_gallery_input.php:103
+#: .././inc/blocks/block_gallery_preview_input.php:127
+#: .././inc/functions/functions_cmb_cpt_project.php:151
+#: .././inc/functions/functions_cmb_pages.php:233
+#: .././inc/functions/functions_cmb_posts.php:248
+msgid ""
+"Add WordPress galleries using the Add Media button. You can add as many "
+"WordPress galleries as you would like."
+msgstr ""
+
+#: .././inc/blocks/block_gallery_input.php:104
+#: .././inc/blocks/block_gallery_preview_input.php:128
+#: .././inc/functions/functions_cmb_cpt_project.php:153
+#: .././inc/functions/functions_cmb_pages.php:236
+#: .././inc/functions/functions_cmb_posts.php:250
+msgid ""
+"The images will appear in the same order as they appear in the galleries. "
+"Duplicate images will be removed."
+msgstr ""
+
+#: .././inc/blocks/block_gallery_input.php:105
+#: .././inc/blocks/block_gallery_preview_input.php:129
+#: .././inc/functions/functions_cmb_pages.php:237
+msgid ""
+"You can use the Text editor to rearrange the WordPress gallery shortcodes"
+msgstr ""
+
+#: .././inc/blocks/block_gallery_input.php:106
+#: .././inc/functions/functions_cmb_pages.php:238
+msgid ""
+"You can use the Text editor to add a category attribute to the shortcodes e."
+"g. [gallery ids=\"1,2,3\" category=\"My Category\"]"
+msgstr ""
+
+#: .././inc/blocks/block_gallery_preview_input.php:73
+msgid "Meta text"
+msgstr ""
+
+#: .././inc/blocks/block_gallery_preview_input.php:97
+msgid "Button URL"
+msgstr ""
+
+#: .././inc/blocks/block_html_input.php:58
+#: .././inc/blocks/block_supporters_input.php:159
+msgid "HTML"
+msgstr ""
+
+#: .././inc/blocks/block_img_input.php:47
+#: .././inc/blocks/block_media_input.php:86
+#: .././inc/blocks/block_template_input.php:180
+msgid "Image"
+msgstr ""
+
+#: .././inc/blocks/block_img_input.php:56
+msgid "Full width fit"
+msgstr ""
+
+#: .././inc/blocks/block_img_input.php:57
+msgid "Boxed fit"
+msgstr ""
+
+#: .././inc/blocks/block_img_input.php:58
+msgid "Boxed left align"
+msgstr ""
+
+#: .././inc/blocks/block_img_input.php:59
+msgid "Boxed center align"
+msgstr ""
+
+#: .././inc/blocks/block_img_input.php:60
+msgid "Boxed right align"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:101
+msgid "Listing Displays"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:118
+msgid "4 column"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:119
+#: .././inc/functions/functions_cmb_pages.php:553
+msgid "3 column"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:120
+#: .././inc/functions/functions_cmb_pages.php:554
+msgid "2 column"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:121
+#: .././inc/functions/functions_cmb_pages.php:555
+msgid "1 column"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:127
+msgid "Orderby"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:130
+msgid "Date"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:131
+#: .././inc/blocks/block_pricing_input.php:167
+#: .././inc/blocks/block_pricing_vertical_input.php:153
+#: .././inc/functions/functions_cmb_pages.php:567
+msgid "Price"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:132
+#: .././inc/functions/functions_cmb_pages.php:568
+msgid "Index"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:138
+#: .././inc/functions/functions_cmb_pages.php:575
+msgid "Order"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:140
+#: .././inc/functions/functions_cmb_pages.php:459
+#: .././inc/functions/functions_cmb_pages.php:578
+msgid "Ascending"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:141
+#: .././inc/functions/functions_cmb_pages.php:458
+#: .././inc/functions/functions_cmb_pages.php:579
+msgid "Descending"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:157
+msgid "number of posts"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:166
+msgid "Hide block title"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:170
+msgid "Hide block description"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:174
+#: .././inc/functions/functions_cmb_pages.php:591
+msgid "Hide item image"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:178
+#: .././inc/functions/functions_cmb_pages.php:592
+msgid "Hide item price"
+msgstr ""
+
+#: .././inc/blocks/block_listing_input.php:182
+#: .././inc/functions/functions_cmb_pages.php:593
+msgid "Hide item description"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:67
+msgid "Media by"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:73
+msgid "Media by link"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:80
+msgid "Meta info"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:80
+msgid "e.g. location, time etc."
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:93
+msgid "Video Link"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:93
+msgid "supply external video link or choose video from media library"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:95
+#: .././inc/blocks/block_media_input.php:102
+#: .././inc/blocks/block_media_input.php:109
+msgid "Media library"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:100
+msgid "Audio Link"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:100
+msgid "supply external audio link or choose audio from media library"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:107
+msgid "Text Link"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:107
+msgid "supply external text link or choose text file from media library"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:116
+msgid "Force text file to download"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:121
+msgid "Media description"
+msgstr ""
+
+#: .././inc/blocks/block_media_input.php:131
+msgid "Read more link"
+msgstr "Læs mere link"
+
+#: .././inc/blocks/block_people_input.php:87
+msgid "Number of people to display"
+msgstr ""
+
+#: .././inc/blocks/block_people_input.php:110
+msgid "Link through to single person post"
+msgstr ""
+
+#: .././inc/blocks/block_people_input.php:117
+msgid "Even height"
+msgstr ""
+
+#: .././inc/blocks/block_people_input.php:124
+msgid "Hide excerpt"
+msgstr ""
+
+#: .././inc/blocks/block_people_input.php:130
+msgid "Order of appearance"
+msgstr ""
+
+#: .././inc/blocks/block_people_input.php:161
+msgid "People category to display"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:124
+msgid "Number of posts to load"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:129
+msgid "X-axis"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:131
+msgid "Newest posts to the right"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:132
+msgid "Newest posts to the left"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:138
+msgid "Y-axis"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:140
+msgid "Number of views"
+msgstr ""
+
+#: .././inc/blocks/block_posts_graph_input.php:141
+msgid "Number of comments"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_input.php:144
+#: .././inc/blocks/block_pricing_vertical_input.php:135
+msgid "Table"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_input.php:152
+#: .././inc/blocks/block_pricing_vertical_input.php:143
+msgid "Featured table"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_input.php:160
+msgid "Table title"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_input.php:174
+#: .././inc/blocks/block_pricing_vertical_input.php:160
+msgid "Interval"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_input.php:181
+#: .././inc/blocks/block_pricing_vertical_input.php:167
+msgid "Content"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_vertical_input.php:178
+msgid "Bonus content 1 (optional)"
+msgstr ""
+
+#: .././inc/blocks/block_pricing_vertical_input.php:189
+msgid "Bonus content 2 (optional)"
+msgstr ""
+
+#: .././inc/blocks/block_qa_input.php:95
+msgid "Question"
+msgstr ""
+
+#: .././inc/blocks/block_qa_input.php:102
+msgid "Answer"
+msgstr ""
+
+#: .././inc/blocks/block_qa_input.php:127
+msgid "Add new Q&A"
+msgstr ""
+
+#: .././inc/blocks/block_revslider_input.php:56
+msgid "Slider alias"
+msgstr ""
+
+#: .././inc/blocks/block_sitemap_input.php:58
+msgid "Choose menu to display as sitemap"
+msgstr ""
+
+#: .././inc/blocks/block_sitemap_input.php:60
+msgid "Primary menu"
+msgstr ""
+
+#: .././inc/blocks/block_sitemap_input.php:61
+msgid "Secondary menu"
+msgstr "Sekundær menu"
+
+#: .././inc/blocks/block_space_input.php:57
+#: .././inc/blocks/block_space_input.php:77
+#: .././inc/blocks/block_space_input.php:93
+#: .././inc/blocks/block_space_input.php:109
+msgid "Pixels"
+msgstr ""
+
+#: .././inc/blocks/block_space_input.php:62
+msgid "Responsive modes"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:85
+#: .././inc/blocks/block_supporters_input.php:106
+msgid "Optional link:"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:120
+msgid "Upload supporter image"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:121
+msgid "Remove supporter image"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:130
+msgid "Repeat images to fill screen"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:135
+msgid "Button 1 text"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:141
+msgid "Button 1 link"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:147
+msgid "Button 2 text"
+msgstr ""
+
+#: .././inc/blocks/block_supporters_input.php:153
+msgid "Button 2 link"
+msgstr ""
+
+#: .././inc/blocks/block_template_input.php:90
+#: .././inc/blocks/block_template_input.php:107
+msgid "Latest Posts"
+msgstr ""
+
+#: .././inc/blocks/block_template_input.php:91
+#: .././inc/blocks/block_template_input.php:108
+msgid "Random Posts"
+msgstr ""
+
+#: .././inc/blocks/block_template_input.php:128
+msgid "Use parallax scrolling for background image"
+msgstr ""
+
+#: .././inc/blocks/block_template_input.php:135
+msgid "Filter menu categories"
+msgstr ""
+
+#: .././inc/blocks/block_template_input.php:167
+msgid "Parallax ratio"
+msgstr ""
+
+#: .././inc/blocks/block_text_section_input.php:87
+msgid "Hide title and divider"
+msgstr ""
+
+#: .././inc/blocks/block_tribe_event_input.php:53
+msgid ""
+"<i><strong>WARNING:</strong> This block requires <strong>The Events "
+"Calendar</strong> plugin. The required plugin could not be found. Please go "
+"to plugins and install/activate the required plugin!</i>"
+msgstr ""
+
+#: .././inc/blocks/block_tribe_event_input.php:70
+msgid "Select event"
+msgstr ""
+
+#: .././inc/blocks/block_tribe_event_output.php:111
+msgid "Find out more"
+msgstr "Læs mere"
+
+#: .././inc/blocks/block_widgets_input.php:59
+msgid "TWO COLUMN LAYOUT"
+msgstr ""
+
+#: .././inc/blocks/block_widgets_input.php:62
+msgid "THREE COLUMN LAYOUTS"
+msgstr ""
+
+#: .././inc/blocks/block_widgets_input.php:67
+msgid "FOUR COLUMN LAYOUTS"
+msgstr ""
+
+#: .././inc/blocks/block_widgets_input.php:74
+msgid "FIVE COLUMN LAYOUTS"
+msgstr ""
+
+#: .././inc/blocks/block_widgets_output.php:47
+msgid "Widget Area"
+msgstr "Widget Område"
+
+#: .././inc/blocks/includes/inc_block_advanced_tab.php:2
+msgid "Custom block classes"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_advanced_tab.php:7
+msgid "Custom block CSS"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:2
+msgid "Background Image"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:18
+msgid "Parallax ratio <i>(1 for no parallax, 0 for max parallax)</i>"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:24
+msgid "Boxed background <i>(not available with full width content)</i>"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:28
+msgid "Block Colors"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:28
+msgid "leave empty to use defaults"
+msgstr ""
+
+#: .././inc/blocks/includes/inc_block_appearance_tab.php:37
+msgid "Font Color"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_item.php:45
+msgid "Item details"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_item.php:55
+msgid "Price <i>(digits only)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_item.php:62
+msgid "Order of appearance index <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:65
+msgid "Details"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:72
+msgid "Title / position"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:80
+msgid "Info"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:83
+msgid "Optional. HTML allowed."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:90
+msgid "Display excerpt as quote"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:97
+msgid ""
+"Position index <span class=\"item_hint\">(determines order of appearance)</"
+"span>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_people.php:120
+msgid "Hide social links"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:77
+#: .././inc/functions/functions_cmb_posts.php:173
+msgid "Feature style"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:80
+#: .././inc/functions/functions_cmb_posts.php:176
+msgid "Featured image"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:81
+#: .././inc/functions/functions_cmb_pages.php:383
+#: .././inc/functions/functions_cmb_posts.php:177
+msgid "Use embeddable media instead of featured image"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:82
+#: .././inc/functions/functions_cmb_posts.php:178
+msgid "Use featured image but open media link in lightbox"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:89
+#: .././inc/functions/functions_cmb_posts.php:185
+msgid "Featured media - <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:98
+msgid "Client name"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:106
+msgid "Client URL"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:123
+#: .././inc/functions/functions_cmb_posts.php:220
+msgid "Hide featured image in post"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:138
+msgid "Project Slider"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:144
+msgid "Show project slider"
+msgstr "Vis projekt slider"
+
+#: .././inc/functions/functions_cmb_cpt_project.php:150
+msgid ""
+"The project slider will replace the featured image at the top of the post."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_cpt_project.php:152
+msgid ""
+"The images from these WordPress galleries will be used in the project slider."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:151
+msgid "No additional page settings available for this template type."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:198
+msgid "Gallery Settings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:205
+msgid "Gallery Style"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:208
+msgid "Gallery Slider"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:209
+msgid "Gallery Isotope"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:210
+msgid "Gallery Singles"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:211
+msgid "Gallery Masonry"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:234
+msgid ""
+"You can add a caption to each image when creating your WordPress gallery."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:235
+msgid ""
+"The images and captions from these WordPress galleries will be used in the "
+"gallery."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:269
+msgid "Portfolio Settings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:276
+msgid "Clicking image"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:279
+msgid "Opens lightbox"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:280
+msgid "Opens post"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:302
+msgid "Project categories to be displayed in portfolio"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:340
+msgid "Blog Settings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:347
+msgid "Blog Layout"
+msgstr "Blog Layout"
+
+#: .././inc/functions/functions_cmb_pages.php:350
+#: .././inc/functions/functions_cmb_pages.php:615
+msgid "Site default"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:351
+msgid "Blog full width"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:352
+msgid "Blog with sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:374
+msgid "Contact"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:390
+msgid "Grayscale media <i>(if available)</i>"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:397
+msgid "Embed code"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:420
+msgid "Timeline"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:436
+msgid "Timeline displays"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:438
+msgid "All categories"
+msgstr "Alle kategorier"
+
+#: .././inc/functions/functions_cmb_pages.php:443
+#: .././inc/functions/functions_cmb_pages.php:536
+msgid "category"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:455
+msgid "Chronology"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:466
+msgid "Link through to posts"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:473
+msgid "Display content instead of excerpts"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:480
+msgid "Posts per page"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:517
+msgid "Listing"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:523
+msgid "Listing displays"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:562
+msgid "Order by"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:565
+msgid "Alphabetical"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:566
+msgid "Date added"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:586
+msgid "Item switches"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:589
+#: .././inc/functions/functions_cmb_pages.php:736
+msgid "Hide page title"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:590
+msgid "Hide page description"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:604
+msgid "Sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:612
+msgid "Sidebar alignment"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:616
+msgid "Left"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:617
+msgid "Right"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:667
+msgid "Pagebuilder Settings"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:674
+msgid "Pagebuilder Blog Attachment"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:677
+msgid "Do not attach"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:678
+msgid "Prepend"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:679
+msgid "Append"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_pages.php:702
+msgid "Pagebuilder Template"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:96
+#: .././inc/functions/functions_cmb_posts.php:201
+msgid "Display quote as a tweet"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:103
+msgid "Quote byline"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:118
+msgid "Post style"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:121
+msgid "Featured full width (standard)"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:122
+msgid "Featured boxed"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:123
+msgid "Featured compact"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:124
+msgid "Featured full width w. sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:125
+msgid "Featured boxed w. sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:126
+msgid "Featured compact w. sidebar"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:127
+msgid "Multi post"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:140
+msgid "Multi post intro"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:204
+msgid "Hide from blog"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:205
+msgid "Hide from popular lists"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:235
+msgid "Post Slider"
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:241
+msgid "Show post slider"
+msgstr "Vis post slider"
+
+#: .././inc/functions/functions_cmb_posts.php:247
+msgid "The post slider will replace the featured image at the top of the post."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_posts.php:249
+msgid ""
+"The images from these WordPress galleries will be used in the post slider."
+msgstr ""
+
+#: .././inc/functions/functions_cmb_template.php:73
+msgid "Client"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:26
+msgid "Add New Item"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:27
+msgid "Edit Item"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:28
+msgid "New Item"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:29
+msgid "All Items"
+msgstr "Alle produkter"
+
+#: .././inc/functions/functions_register_cpt_item.php:30
+msgid "View Item"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:31
+msgid "Search Items"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:32
+msgid "No items found"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:33
+msgid "No items found in the Trash"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:63
+#, php-format
+msgid "Item updated. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:64
+#: .././inc/functions/functions_register_cpt_pb_template.php:61
+#: .././inc/functions/functions_register_cpt_people.php:63
+#: .././inc/functions/functions_register_cpt_project.php:63
+#: .././inc/functions/functions_register_cpt_template.php:74
+msgid "Custom field updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:65
+#: .././inc/functions/functions_register_cpt_pb_template.php:62
+#: .././inc/functions/functions_register_cpt_people.php:64
+#: .././inc/functions/functions_register_cpt_project.php:64
+#: .././inc/functions/functions_register_cpt_template.php:75
+msgid "Custom field deleted."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:66
+msgid "Item updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:67
+#, php-format
+msgid "Item restored to revision from %s"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:68
+#, php-format
+msgid "Item published. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:69
+msgid "Item saved."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:70
+#, php-format
+msgid "Item submitted. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:71
+#, php-format
+msgid ""
+"Item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview item</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:71
+#: .././inc/functions/functions_register_cpt_pb_template.php:68
+#: .././inc/functions/functions_register_cpt_people.php:70
+#: .././inc/functions/functions_register_cpt_project.php:70
+#: .././inc/functions/functions_register_cpt_template.php:81
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:72
+#, php-format
+msgid "Item draft updated. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_item.php:88
+msgid "Search Item Categories"
+msgstr "Søg Produktkategorier"
+
+#: .././inc/functions/functions_register_cpt_item.php:89
+msgid "All Item Categories"
+msgstr "Alle Produktkategorier"
+
+#: .././inc/functions/functions_register_cpt_item.php:90
+msgid "Parent Item Category"
+msgstr "Forælder Produktkategori"
+
+#: .././inc/functions/functions_register_cpt_item.php:91
+msgid "Parent Item Category:"
+msgstr "Forælder Produktkategori:"
+
+#: .././inc/functions/functions_register_cpt_item.php:92
+msgid "Edit Item Category"
+msgstr "Rediger Produktkategori"
+
+#: .././inc/functions/functions_register_cpt_item.php:93
+msgid "Update Item Category"
+msgstr "Opdater Produktkategori"
+
+#: .././inc/functions/functions_register_cpt_item.php:94
+msgid "Add New Item Category"
+msgstr "Tilføj Ny Produktkategori"
+
+#: .././inc/functions/functions_register_cpt_item.php:95
+msgid "New Item Category"
+msgstr "Ny Produktkategori"
+
+#: .././inc/functions/functions_register_cpt_item.php:96
+#: .././inc/functions/functions_register_cpt_item.php:115
+msgid "Item Categories"
+msgstr "Produktkategorier"
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:24
+msgid "Add New Template"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:25
+msgid "Edit Template"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:26
+msgid "New Template"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:27
+msgid "All Templates"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:28
+msgid "View Template"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:29
+msgid "Search Templates"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:30
+msgid "No Templates found"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:31
+msgid "No Templates found in the Trash"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:60
+#, php-format
+msgid "Template updated. <a href=\"%s\">View Template</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:63
+msgid "Template updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:64
+#, php-format
+msgid "Template restored to revision from %s"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:65
+#, php-format
+msgid "Template published. <a href=\"%s\">View Template</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:66
+msgid "Template saved."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:67
+#, php-format
+msgid ""
+"Template submitted. <a target=\"_blank\" href=\"%s\">Preview Template</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:68
+#, php-format
+msgid ""
+"Template scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Template</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_pb_template.php:69
+#, php-format
+msgid ""
+"Template draft updated. <a target=\"_blank\" href=\"%s\">Preview Template</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:26
+msgid "Add New People"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:27
+msgid "Edit People"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:28
+msgid "New People"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:29
+msgid "All People"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:30
+msgid "View People"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:31
+msgid "Search People"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:32
+msgid "No people found"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:33
+msgid "No people found in the Trash"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:62
+#, php-format
+msgid "People updated. <a href=\"%s\">View people</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:65
+msgid "People updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:66
+#, php-format
+msgid "People restored to revision from %s"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:67
+#, php-format
+msgid "People published. <a href=\"%s\">View people</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:68
+msgid "People saved."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:69
+#, php-format
+msgid "People submitted. <a target=\"_blank\" href=\"%s\">Preview people</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:70
+#, php-format
+msgid ""
+"People scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview people</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:71
+#, php-format
+msgid ""
+"People draft updated. <a target=\"_blank\" href=\"%s\">Preview people</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:87
+msgid "Search People Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:88
+msgid "All People Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:89
+msgid "Parent People Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:90
+msgid "Parent People Category:"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:91
+msgid "Edit People Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:92
+msgid "Update People Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:93
+msgid "Add New People Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:94
+msgid "New People Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_people.php:95
+#: .././inc/functions/functions_register_cpt_people.php:113
+msgid "People Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:26
+msgid "Add New Project"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:27
+msgid "Edit Project"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:28
+msgid "New Project"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:29
+msgid "All Projects"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:30
+msgid "View Project"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:31
+msgid "Search Projects"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:32
+msgid "No projects found"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:33
+msgid "No projects found in the Trash"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:62
+#, php-format
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:65
+msgid "Project updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:66
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:67
+#, php-format
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:68
+msgid "Project saved."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:69
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:70
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:71
+#, php-format
+msgid ""
+"Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:87
+msgid "Search Project Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:88
+msgid "All Project Categories"
+msgstr "Alle Projektkategorier"
+
+#: .././inc/functions/functions_register_cpt_project.php:89
+msgid "Parent Project Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:90
+msgid "Parent Project Category:"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:91
+msgid "Edit Project Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:92
+msgid "Update Project Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:93
+msgid "Add New Project Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:94
+msgid "New Project Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_project.php:95
+#: .././inc/functions/functions_register_cpt_project.php:113
+msgid "Project Categories"
+msgstr "Projektkategorier"
+
+#: .././inc/functions/functions_register_cpt_template.php:37
+msgid "Add New Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:38
+msgid "Edit Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:39
+msgid "New Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:40
+msgid "All Templatefirstcaps"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:41
+msgid "View Templatefirstcap"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:42
+msgid "Search Templatefirstcaps"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:43
+msgid "No templatelowercases found"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:44
+msgid "No templatelowercases found in the Trash"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:73
+#, php-format
+msgid "Templatefirstcap updated. <a href=\"%s\">View templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:76
+msgid "Templatefirstcap updated."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:77
+#, php-format
+msgid "Templatefirstcap restored to revision from %s"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:78
+#, php-format
+msgid "Templatefirstcap published. <a href=\"%s\">View templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:79
+msgid "Templatefirstcap saved."
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:80
+#, php-format
+msgid ""
+"Templatefirstcap submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:81
+#, php-format
+msgid ""
+"Templatefirstcap scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:82
+#, php-format
+msgid ""
+"Templatefirstcap draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"templatelowercase</a>"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:98
+msgid "Search Templatefirstcap Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:99
+msgid "All Templatefirstcap Categories"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:100
+msgid "Parent Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:101
+msgid "Parent Templatefirstcap Category:"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:102
+msgid "Edit Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:103
+msgid "Update Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:104
+msgid "Add New Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:105
+msgid "New Templatefirstcap Category"
+msgstr ""
+
+#: .././inc/functions/functions_register_cpt_template.php:106
+msgid "Templatefirstcap Categories"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:5
+msgid "Canon Pagebuilder"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:235
+msgid "Template Controls"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:238
+msgid "Current template"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:252
+msgid "Template name"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:256
+msgid "Save Changes"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:257
+msgid "Clone Template"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:258
+msgid "Create New Template"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:259
+msgid "Delete this template"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:268
+msgid "Blocks"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:272
+msgid "Add block"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:281
+msgid "Clipboard"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:381
+msgid "Show all"
+msgstr "Vis alt"
+
+#: .././inc/options/options_pagebuilder.php:382
+msgid "Native page elements"
+msgstr ""
+
+#: .././inc/options/options_pagebuilder.php:383
+msgid "Functionality"
+msgstr ""
+
+#~ msgid "Carousel"
+#~ msgstr "Karousel"
+
+#~ msgid "people"
+#~ msgstr "mennesker"
+
+#~ msgid "All"
+#~ msgstr "Alle"

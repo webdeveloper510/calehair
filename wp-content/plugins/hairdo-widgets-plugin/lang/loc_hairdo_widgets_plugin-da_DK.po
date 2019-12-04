@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairdo Widgets Plugin v1.0\n"
+"POT-Creation-Date: 2015-07-31 15:45+0200\n"
+"PO-Revision-Date: 2015-07-31 15:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/widgets/widget_hairdo_accordion.php:21
+msgid "Displays an accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_accordion.php:29
+msgid "Hairdo: Accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_accordion.php:53
+#: .././inc/widgets/widget_hairdo_accordion.php:112
+msgid "Accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_accordion.php:71
+#: .././inc/widgets/widget_hairdo_facebook.php:70
+#: .././inc/widgets/widget_hairdo_fact.php:68
+#: .././inc/widgets/widget_hairdo_more_posts.php:58
+#: .././inc/widgets/widget_hairdo_quote.php:66
+#: .././inc/widgets/widget_hairdo_single_event.php:65
+#: .././inc/widgets/widget_hairdo_single_eventx.php:65
+#: .././inc/widgets/widget_hairdo_single_post.php:87
+#: .././inc/widgets/widget_hairdo_single_post.php:100
+#: .././inc/widgets/widget_hairdo_single_postx.php:87
+#: .././inc/widgets/widget_hairdo_single_postx.php:100
+#: .././inc/widgets/widget_hairdo_statistics.php:78
+#: .././inc/widgets/widget_hairdo_tabs.php:71
+#: .././inc/widgets/widget_hairdo_toggle.php:71
+#: .././inc/widgets/widget_hairdo_twitter.php:64
+#: .././inc/widgets/widget_template.php:55
+msgid "Title"
+msgstr "Titel"
+
+#: .././inc/widgets/widget_hairdo_accordion.php:76
+msgid "Accordion sections"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_accordion.php:93
+#: .././inc/widgets/widget_hairdo_donut_chart.php:133
+#: .././inc/widgets/widget_hairdo_paired_list.php:119
+#: .././inc/widgets/widget_hairdo_reviews.php:129
+#: .././inc/widgets/widget_hairdo_statistics.php:115
+#: .././inc/widgets/widget_hairdo_tabs.php:93
+#: .././inc/widgets/widget_hairdo_toggle.php:95
+msgid "Add"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_accordion.php:94
+#: .././inc/widgets/widget_hairdo_donut_chart.php:134
+#: .././inc/widgets/widget_hairdo_paired_list.php:120
+#: .././inc/widgets/widget_hairdo_reviews.php:130
+#: .././inc/widgets/widget_hairdo_statistics.php:116
+#: .././inc/widgets/widget_hairdo_tabs.php:94
+#: .././inc/widgets/widget_hairdo_toggle.php:96
+msgid "Delete"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:21
+msgid "Display an animated number"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:29
+msgid "Hairdo: Animated Number"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:69
+msgid "Number"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:74
+msgid "Prefix"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:79
+msgid "Postfix"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:84
+#: .././inc/widgets/widget_hairdo_more_posts.php:96
+#: .././inc/widgets/widget_template.php:87
+msgid "Text"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:89
+#: .././inc/widgets/widget_template.php:61
+msgid "Animation Speed"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:105
+#: .././inc/widgets/widget_template.php:78
+msgid "Comma seperator"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_animated_number.php:111
+msgid "Show text"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_contact_list.php:21
+#: .././inc/widgets/widget_hairdo_contact_listx.php:21
+msgid "Display a list of contact links"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_contact_list.php:29
+#: .././inc/widgets/widget_hairdo_contact_listx.php:29
+msgid "Hairdo: Contact list"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_contact_list.php:52
+#: .././inc/widgets/widget_hairdo_contact_list.php:91
+#: .././inc/widgets/widget_hairdo_contact_listx.php:52
+#: .././inc/widgets/widget_hairdo_contact_listx.php:91
+msgid "Find us at"
+msgstr "Find os på"
+
+#: .././inc/widgets/widget_hairdo_contact_list.php:70
+#: .././inc/widgets/widget_hairdo_contact_listx.php:70
+#: .././inc/widgets/widget_hairdo_quicklinks.php:70
+#: .././inc/widgets/widget_hairdo_quicklinksx.php:70
+msgid "Title:"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_contact_list.php:75
+#: .././inc/widgets/widget_hairdo_contact_listx.php:75
+#: .././inc/widgets/widget_hairdo_quicklinks.php:75
+#: .././inc/widgets/widget_hairdo_quicklinksx.php:75
+msgid "List of contact links"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_donut_chart.php:21
+msgid "Display a donut chart"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_donut_chart.php:29
+msgid "Hairdo: Donut Chart"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_donut_chart.php:79
+#: .././inc/widgets/widget_hairdo_paired_list.php:83
+#: .././inc/widgets/widget_hairdo_reviews.php:78
+#: .././inc/widgets/widget_hairdo_search.php:64
+msgid "Title <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_donut_chart.php:85
+msgid "Data value postfix <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_donut_chart.php:91
+msgid "Text <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_donut_chart.php:97
+msgid "Chart data"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:21
+msgid "Display Facebook box"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:29
+msgid "Hairdo: Facebook"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:56
+#: .././inc/widgets/widget_hairdo_facebook.php:126
+#: .././inc/widgets/widget_template.php:46
+msgid "Like us on facebook"
+msgstr "Like os på Facebook"
+
+#: .././inc/widgets/widget_hairdo_facebook.php:75
+msgid "Facebook Page"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:80
+msgid "Max-width (pixels)"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:85
+msgid "Height (pixels)"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:92
+msgid "Show cover"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:98
+msgid "Show faces"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:104
+msgid "Show posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:110
+msgid "Small header"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_facebook.php:156
+msgid "Facebook page plugin loading..."
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:21
+msgid "Displays a fact box"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:29
+msgid "Hairdo: Fact Box"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:53
+#: .././inc/widgets/widget_hairdo_fact.php:114
+msgid "Did You Know"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:56
+#: .././inc/widgets/widget_hairdo_fact.php:117
+msgid "Happy Customers Have Been Served"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:73
+msgid "Fact 1st line"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:78
+#: .././inc/widgets/widget_hairdo_fact.php:88
+msgid "Fittext ratio"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:78
+msgid "higher numbers = smaller text"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:83
+msgid "Fact 2nd line"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:93
+msgid "Fact text"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:98
+msgid "Read More Link <i>(optional)</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_fact.php:169
+msgid "Read More"
+msgstr "Læs Mere"
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:21
+msgid "Display more posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:29
+msgid "Hairdo: More Posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:46
+#: .././inc/widgets/widget_hairdo_more_posts.php:139
+msgid "More posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:63
+msgid "What to show"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:65
+msgid "Latest posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:66
+msgid "Random posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:70
+msgid "Popular posts by views"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:71
+msgid "Popular posts by comments"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:92
+#: .././inc/widgets/widget_template.php:83
+msgid "Display style"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:94
+#: .././inc/widgets/widget_template.php:85
+msgid "Images linking to posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:95
+#: .././inc/widgets/widget_template.php:86
+msgid "Images linking to lightbox"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:101
+msgid "Number of posts"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_more_posts.php:114
+msgid "Number of image columns"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_paired_list.php:21
+msgid "Display a paired list."
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_paired_list.php:29
+msgid "Hairdo: Paired List"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_paired_list.php:53
+#: .././inc/widgets/widget_hairdo_paired_list.php:89
+#: .././inc/widgets/widget_hairdo_paired_list.php:135
+msgid "Opening Hours"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_paired_list.php:99
+msgid "Left"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_paired_list.php:106
+msgid "Right"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quicklinks.php:21
+#: .././inc/widgets/widget_hairdo_quicklinksx.php:21
+msgid "Display a list of links"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quicklinks.php:29
+#: .././inc/widgets/widget_hairdo_quicklinksx.php:29
+msgid "Hairdo: Quicklinks"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quicklinks.php:52
+#: .././inc/widgets/widget_hairdo_quicklinks.php:91
+#: .././inc/widgets/widget_hairdo_quicklinksx.php:52
+#: .././inc/widgets/widget_hairdo_quicklinksx.php:91
+msgid "Quicklinks"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quote.php:21
+msgid "Displays a quote"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quote.php:29
+msgid "Hairdo: Quote"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quote.php:53
+#: .././inc/widgets/widget_hairdo_quote.php:71
+#: .././inc/widgets/widget_hairdo_quote.php:92
+msgid "Quote"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_quote.php:76
+msgid "Byline"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_reviews.php:21
+msgid "Display reviews."
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_reviews.php:29
+msgid "Hairdo: Reviews"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_reviews.php:53
+#: .././inc/widgets/widget_hairdo_reviews.php:146
+msgid "Customer Reviews"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_reviews.php:84
+msgid "Review"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_reviews.php:94
+msgid "Name"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_reviews.php:100
+msgid "Rating"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_search.php:21
+msgid "Display search"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_search.php:29
+msgid "Hairdo: Search"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_search.php:52
+#: .././inc/widgets/widget_hairdo_search.php:85
+msgid "Search"
+msgstr "Søg"
+
+#: .././inc/widgets/widget_hairdo_search.php:53
+#: .././inc/widgets/widget_hairdo_search.php:86
+msgid "Search..."
+msgstr "Søg..."
+
+#: .././inc/widgets/widget_hairdo_search.php:69
+msgid "Placeholder text"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:21
+#: .././inc/widgets/widget_hairdo_single_eventx.php:21
+msgid "Display a single event"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:29
+#: .././inc/widgets/widget_hairdo_single_eventx.php:29
+msgid "Hairdo: Single Event"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:53
+#: .././inc/widgets/widget_hairdo_single_event.php:144
+#: .././inc/widgets/widget_hairdo_single_eventx.php:53
+#: .././inc/widgets/widget_hairdo_single_eventx.php:144
+msgid "Event"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:74
+#: .././inc/widgets/widget_hairdo_single_eventx.php:74
+msgid ""
+"<i><strong>WARNING:</strong> This block requires <strong>The Events "
+"Calendar</strong> plugin. The required plugin could not be found. Please go "
+"to plugins and install/activate the required plugin!</i>"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:90
+#: .././inc/widgets/widget_hairdo_single_eventx.php:90
+msgid "Select event"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:116
+#: .././inc/widgets/widget_hairdo_single_eventx.php:116
+msgid "Automatic Excerpt Size"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_event.php:261
+#: .././inc/widgets/widget_hairdo_single_eventx.php:246
+msgid "Find out more"
+msgstr "Læs mere"
+
+#: .././inc/widgets/widget_hairdo_single_post.php:21
+#: .././inc/widgets/widget_hairdo_single_postx.php:21
+msgid "Displays a single post"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:29
+#: .././inc/widgets/widget_hairdo_single_postx.php:29
+msgid "Hairdo: Single Post"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:84
+#: .././inc/widgets/widget_hairdo_single_postx.php:84
+msgid "Order posts by"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:86
+#: .././inc/widgets/widget_hairdo_single_postx.php:86
+msgid "Date"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:91
+#: .././inc/widgets/widget_hairdo_single_postx.php:91
+msgid "Descending"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:92
+#: .././inc/widgets/widget_hairdo_single_postx.php:92
+msgid "Ascending"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:96
+#: .././inc/widgets/widget_hairdo_single_postx.php:96
+msgid "Takes effect on save"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:105
+#: .././inc/widgets/widget_hairdo_single_postx.php:105
+msgid "Display post"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:121
+#: .././inc/widgets/widget_hairdo_single_postx.php:121
+msgid "Excerpt length"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_single_post.php:221
+#: .././inc/widgets/widget_hairdo_single_postx.php:221
+msgid "More"
+msgstr "Mere"
+
+#: .././inc/widgets/widget_hairdo_statistics.php:21
+msgid "Display statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_statistics.php:29
+msgid "Hairdo: Statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_statistics.php:53
+#: .././inc/widgets/widget_hairdo_statistics.php:144
+msgid "Statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_statistics.php:122
+msgid "Statistics text"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_statistics.php:127
+msgid "Read More Link"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_statistics.php:191
+msgid "more"
+msgstr "mere"
+
+#: .././inc/widgets/widget_hairdo_tabs.php:21
+msgid "Displays tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_tabs.php:29
+msgid "Hairdo: Tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_tabs.php:53
+#: .././inc/widgets/widget_hairdo_tabs.php:76
+#: .././inc/widgets/widget_hairdo_tabs.php:112
+msgid "Tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_toggle.php:21
+msgid "Displays a toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_toggle.php:29
+msgid "Hairdo: Toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_toggle.php:53
+#: .././inc/widgets/widget_hairdo_toggle.php:114
+msgid "Toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_toggle.php:77
+msgid "toggle sections"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:21
+msgid "Display Twitter feed"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:29
+msgid "Hairdo: Twitter"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:52
+#: .././inc/widgets/widget_hairdo_twitter.php:111
+msgid "Latest tweets"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:69
+msgid "Twitter widget code"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:71
+msgid "Generate you own widget code here"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:81
+msgid "Use theme design instead?"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:86
+msgid "Number of tweets"
+msgstr ""
+
+#: .././inc/widgets/widget_hairdo_twitter.php:129
+msgid "Please insert your Twitter widget code!"
+msgstr ""
+
+#: .././inc/widgets/widget_template.php:21
+msgid "YOUR STANDARD TEMPLATE BANNER"
+msgstr ""
+
+#: .././inc/widgets/widget_template.php:29
+msgid "TEMPLATE_DISPLAY_TITLE"
+msgstr ""

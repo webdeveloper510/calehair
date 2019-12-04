@@ -1,0 +1,8 @@
+03-22-2016 @ 04:22:37 - Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+03-22-2016 @ 04:23:53 - mollie_wc_gateway_paypal: Create payment for order 1142
+03-22-2016 @ 04:23:53 - mollie_wc_gateway_paypal: Payment tr_HdmN8mckrv (test) created for order 1142
+03-22-2016 @ 04:23:53 - Cart emptied, redirect user to payment URL: https://www.mollie.com/testmode/paypal/?transaction_id=EC-lNC1DigewzbB25ylr
+03-22-2016 @ 04:24:14 - mollie_wc_gateway_paypal: Mollie payment tr_HdmN8mckrv (test) webhook call for order 1142.
+03-22-2016 @ 04:24:14 - Mollie_WC_Gateway_Abstract::onWebhookPaid called.
+03-22-2016 @ 04:24:18 - Mollie_WC_Plugin::onMollieReturn: Redirect url on return order mollie_wc_gateway_paypal, order 1142: http://www.celebhairextensions.nl/checkout/order-received/1142?key=wc_order_56f0c8d98ed78&utm_nooverride=1
+03-22-2016 @ 05:29:59 - Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients

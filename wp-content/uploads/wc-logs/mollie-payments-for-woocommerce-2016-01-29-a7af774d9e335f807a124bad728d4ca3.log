@@ -1,0 +1,6 @@
+01-29-2016 @ 09:25:53 - mollie_wc_gateway_ideal: Create payment for order 1138
+01-29-2016 @ 09:25:53 - mollie_wc_gateway_ideal: Payment tr_LuusHMHatt (live) created for order 1138
+01-29-2016 @ 09:25:53 - Cart emptied, redirect user to payment URL: https://bankieren.ideal.ing.nl/ideal/betalen/inlog-annuleren/static/detect_mob?trxid=0030001450561976&random=5465be2dd651b936
+01-29-2016 @ 09:26:37 - mollie_wc_gateway_ideal: Mollie payment tr_LuusHMHatt (live) webhook call for order 1138.
+01-29-2016 @ 09:26:37 - Mollie_WC_Gateway_Abstract::onWebhookPaid called.
+01-29-2016 @ 09:26:38 - Mollie_WC_Plugin::onMollieReturn: Redirect url on return order mollie_wc_gateway_ideal, order 1138: http://www.celebhairextensions.nl/checkout/order-received/1138?key=wc_order_56ab3020d1e14&utm_nooverride=1

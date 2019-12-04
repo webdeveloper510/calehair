@@ -1,0 +1,46 @@
+/* CSS Document */
+#rightcon {float: left; padding-left: 40px; padding-right: 70px; width: 550px;}
+
+.mainpage {font-weight:800; color: #282828;}
+
+.categories {height: 10px; font-family: 'Ubuntu', sans-serif; list-style:none; margin-bottom: 30px; 	margin-top: 30px; font-size:14px; color: #282828;}
+
+#footer {background-color: #000000; margin-top: 10px; float: left;width: 100%;}
+
+#footer ul { width: 800px; margin-left: 60px; margin-right: 80px; margin: 0 auto; text-decoration: none; padding-top: 25px; padding-bottom: 20px; }
+
+#footer ul li {	
+	text-align: center;
+	padding-right: 15px;
+	display: inline;
+	color: #FFFFFF;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 10px;	
+	display: inline;	
+}
+
+#content {
+	width: 670px;
+	margin-top: 12px;
+	text-align: center;
+}
+#content img {
+	padding-right: 80px;
+	text-align: center;
+}
+#content p {
+	padding-right: 80px;
+	text-align: center;
+	width: 480px;
+	padding-left: 50px;
+}
+
+#headfoto {padding-right: 80px; text-align: center; padding-top: 12px; }
+
+#headfoto h3 {text-align: left; background-color: #E7E7E7; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; width: 620px;}
+
+.tekst {text-align: left;}
+
+.prijzen {text-align: left; width: 630px;}
+
+ul.product-categories li a:hover { color: #ff50b4 !important;}

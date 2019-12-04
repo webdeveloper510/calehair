@@ -1,0 +1,40 @@
+1458884021|~|2.87|~|70.58|~|details|~|BackupBuddy v4.0.2.1 using WordPress v4.4.2 on Linux.
+1458884021|~|2.88|~|70.58|~|details|~|Performing pre-backup procedures.
+1458884021|~|2.88|~|70.58|~|message|~|Full backup mode.
+1458884021|~|2.88|~|70.60|~|details|~|Verifying directories ...
+1458884021|~|2.88|~|70.60|~|details|~|Directories verified.
+1458884021|~|2.88|~|70.60|~|details|~|Backup serial generated: `rbckuovckp`.
+1458884021|~|2.88|~|70.60|~|details|~|About to load fileoptions data in create mode.
+1458884021|~|2.88|~|70.62|~|details|~|Fileoptions data loaded.
+1458884021|~|2.88|~|70.62|~|details|~|Resetting statistics for last backup time and number of edits since last backup.
+1458884021|~|2.89|~|70.65|~|details|~|Active WordPress plugins: `advanced-custom-fields/acf.php; backupbuddy/backupbuddy.php; bbpress/bbpress.php; buddypress/bp-loader.php; complete-central-backup/complete-central-backup.php; contact-form-7/wp-contact-form-7.php; envato-wordpress-toolkit/index.php; google-analytics-for-wordpress/googleanalytics.php; gotmls/index.php; hairdo-core-plugin/index.php; hairdo-shortcodes-plugin/index.php; hairdo-widgets-plugin/index.php; images-thumbnail-sliderv1/wordpress-thumbnail-slider.php; mollie-payments-for-woocommerce/mollie-payments-for-woocommerce.php; quick-pagepost-redirect-plugin/page_post_redirect_plugin.php; revslider/revslider.php; string-locator/string-locator.php; tablepress/tablepress.php; woocommerce/woocommerce.php; woosalescountdown/woosalescountdown.php; wordpress-importer/wordpress-importer.php; wordpress-seo/wp-seo.php; wp-sitemap-page/wp-sitemap-page.php; wp-smushit/wp-smush.php`.
+1458884021|~|2.89|~|70.65|~|details|~|Initial zip exclusions (after filter): `/wp-content/uploads/backupbuddy_backups/; /wp-content/uploads/pb_backupbuddy/; /importbuddy/; /importbuddy.php`.
+1458884021|~|2.89|~|70.65|~|details|~|Calculating mysql database tables to backup.
+1458884021|~|2.89|~|70.65|~|details|~|Base database dump mode (before inclusions/exclusions): `prefix`.
+1458884021|~|2.89|~|70.65|~|details|~|Determining database tables with prefix `wp_`.
+1458884021|~|2.89|~|70.65|~|details|~|Database tables (0 tables): ``
+1458884021|~|2.89|~|70.65|~|details|~|Database tables after addition (0 tables): ``
+1458884021|~|2.89|~|70.65|~|details|~|Database tables after exclusion (0 tables): ``
+1458884021|~|2.90|~|70.65|~|details|~|Breaking out tables DISABLED based on settings.
+1458884021|~|2.90|~|70.65|~|details|~|Integrity check will be performed based on settings for this profile.
+1458884021|~|2.90|~|70.65|~|details|~|Creating DAT (data) file snapshotting site & backup information.
+1458884021|~|2.90|~|70.65|~|details|~|wp-config.php found in normal location.
+1458884021|~|2.90|~|70.66|~|details|~|DAT file contents (sans database user/pass): Array; (;     [backupbuddy_version] => 4.0.2.1;     [backup_time] => 1458884021;     [backup_type] => full;     [profile] => Array;         (;             [type] => full;             [title] => Complete Backup;             [skip_database_dump] => 0;             [mysqldump_additional_includes] => ;             [mysqldump_additional_excludes] => ;             [backup_nonwp_tables] => 0;             [excludes] => ;             [integrity_check] => 1;             [profile_globaltables] => 1;             [profile_globalexcludes] => 1;         ); ;     [serial] => rbckuovckp;     [trigger] => manual;     [wp-config_in_parent] => ;     [abspath] => /var/www/vhosts/55/234673/webspace/httpdocs/celebhairextensions.nl/;     [siteurl] => http://www.celebhairextensions.nl;     [homeurl] => http://www.celebhairextensions.nl;     [blogname] => Hairextensions Den Haag;     [blogdescription] => Haarvolume &amp; Haarlengte tegen de laagste prijs!;     [active_plugins] => advanced-custom-fields/acf.php, backupbuddy/backupbuddy.php, bbpress/bbpress.php, buddypress/bp-loader.php, complete-central-backup/complete-central-backup.php, contact-form-7/wp-contact-form-7.php, envato-wordpress-toolkit/index.php, google-analytics-for-wordpress/googleanalytics.php, gotmls/index.php, hairdo-core-plugin/index.php, hairdo-shortcodes-plugin/index.php, hairdo-widgets-plugin/index.php, images-thumbnail-sliderv1/wordpress-thumbnail-slider.php, mollie-payments-for-woocommerce/mollie-payments-for-woocommerce.php, quick-pagepost-redirect-plugin/page_post_redirect_plugin.php, revslider/revslider.php, string-locator/string-locator.php, tablepress/tablepress.php, woocommerce/woocommerce.php, woosalescountdown/woosalescountdown.php, wordpress-importer/wordpress-importer.php, wordpress-seo/wp-seo.php, wp-sitemap-page/wp-sitemap-page.php, wp-smushit/wp-smush.php;     [db_prefix] => wp_;     [db_server] => mysql765int.cp.hostnet.nl;     [db_name] => db216712_celebh;     [db_user] => ;     [db_password] => ;     [db_exclusions] => ;     [db_inclusions] => ;     [breakout_tables] => Array;         (;         ); ;     [tables_sizes] => Array;         (;         ); ;     [is_multisite] => ;     [is_multisite_export] => ;     [domain] => ;     [path] => ;     [upload_url] => ;     [upload_url_rewrite] => ; );
+1458884021|~|2.90|~|70.66|~|details|~|Finished creating DAT (data) file.
+1458884021|~|2.90|~|70.66|~|details|~|Generating ImportBuddy tool to include in backup archive: `/var/www/vhosts/55/234673/webspace/httpdocs/celebhairextensions.nl/wp-content/uploads/backupbuddy_temp/rbckuovckp/importbuddy.php`.
+1458884021|~|2.90|~|70.66|~|details|~|Attempted to set PHP execution time to 7200
+1458884021|~|2.91|~|70.66|~|details|~|Reported PHP execution time - Configured: 600; Original: 600; Current: 7200
+1458884021|~|2.91|~|70.66|~|details|~|Attempted to set PHP memory limit to user defined WP_MAX_MEMORY_LIMIT (256M) or over-ridden value
+1458884021|~|2.91|~|70.66|~|details|~|Reported PHP memory limits - Configured: 1024M; Original: 256M; Current: 256M
+1458884021|~|2.91|~|70.66|~|warning|~|Error #9032: Warning only - You have not set a password to generate the ImportBuddy script yet on the BackupBuddy Settings page. If you are creating a backup, the importbuddy.php restore script will not be included in the backup. You can download it from the Restore page.  If you were trying to download ImportBuddy then you may have a plugin confict preventing the page from prompting you to enter a password.
+1458884021|~|2.91|~|70.66|~|details|~|ImportBuddy generation complete.
+1458884021|~|2.91|~|70.66|~|details|~|Finished pre-backup procedures.
+1458884021|~|2.91|~|70.66|~|action|~|finish_settings
+1458884021|~|2.91|~|70.66|~|message|~|Running in modern backup mode based on settings. Mode value: `2`. Trigger: `manual`.
+1458884021|~|2.91|~|70.66|~|details|~|Scheduling Cron for `rbckuovckp`.
+1458884021|~|2.91|~|70.66|~|details|~|Loading DB kicker in case database has gone away.
+1458884021|~|2.91|~|70.67|~|details|~|Database kicker database object class: `wpdb`.
+1458884021|~|2.92|~|70.67|~|details|~|Database Server has gone away, attempting to reconnect.
+1458884021|~|2.92|~|70.67|~|details|~|Database Server reconnection failed.
+1458884021|~|2.92|~|70.67|~|error|~|Database Server has gone away, unable to schedule next backup step. The backup cannot continue. This is most often caused by mysql running out of memory or timing out far too early. Please contact your host.
+1458884021|~|2.92|~|70.67|~|action|~|halt_script
